@@ -1,39 +1,31 @@
 # 👋 Hola, soy Juan José Álvarez
 
-## Full Stack Developer en formación
+## 💻 Tecnologías
+<!-- Skill Icons -->
 
-Soy estudiante de RIWI apasionado por el desarrollo web.
+## 📊 Estadísticas de GitHub
 
-Actualmente aprendiendo:
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=artyomalvarez&show_icons=true&theme=tokyonight)
 
-- HTML
-- CSS
-- JavaScript
-- MySQL
-- Git
-- GitHub
+---
 
-## Tecnologías
+## 📈 Lenguajes más utilizados
 
-HTML
-CSS
-JavaScript
-MySQL
-Git
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artyomalvarez&layout=compact&theme=tokyonight)
 
-## Actualmente trabajando
+---
 
-🚀 Proyecto Integrador
+## 🔥 Racha de contribuciones
 
-📚 Aprendiendo Backend
+![GitHub Streak](https://streak-stats.demolab.com?user=artyomalvarez&theme=tokyonight)
 
-## Contacto
+---
 
-LinkedIn
-Correo
+## 🚀 Proyectos destacados
 
-<!--
-**artyomalvarez/artyomalvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📦 Proyecto Integrador
+- 📊 Inventario
+- 🌐 Portafolio
 
 Here are some ideas to get you started:
 
