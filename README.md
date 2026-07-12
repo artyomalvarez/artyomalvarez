@@ -1,4 +1,36 @@
-## Hi there 👋
+# 👋 Hola, soy Juan José Álvarez
+
+## Full Stack Developer en formación
+
+Soy estudiante de RIWI apasionado por el desarrollo web.
+
+Actualmente aprendiendo:
+
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- Git
+- GitHub
+
+## Tecnologías
+
+HTML
+CSS
+JavaScript
+MySQL
+Git
+
+## Actualmente trabajando
+
+🚀 Proyecto Integrador
+
+📚 Aprendiendo Backend
+
+## Contacto
+
+LinkedIn
+Correo
 
 <!--
 **artyomalvarez/artyomalvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
