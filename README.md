@@ -1,17 +1,35 @@
-# 👋 Hola, soy Juan José Álvarez
+#  Hola, soy Juan José Álvarez
 
-## 💻 Tecnologías
-<!-- Skill Icons -->
+# Tecnologías
 
-## 📊 Estadísticas de GitHub
+### Actualmente
 
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=artyomalvarez&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,mysql,mongodb,vscode,python,discord&perline=5"/>
+</p>
+
+### 🌱 Próximamente
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,kotlin"/>
+</p>
+
+
+## 📊 Estadísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artyomalvarez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artyomalvarez&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📈 Lenguajes más utilizados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artyomalvarez&layout=compact&theme=tokyonight)
+## 📈 Lenguajes más usados
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artyomalvarez&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
 ---
 
