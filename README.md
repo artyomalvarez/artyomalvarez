@@ -15,30 +15,6 @@
 </p>
 
 
-## 📊 Estadísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artyomalvarez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artyomalvarez&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
----
-
-
-## 📈 Lenguajes más usados
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artyomalvarez&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Racha de contribuciones
-
-![GitHub Streak](https://streak-stats.demolab.com?user=artyomalvarez&theme=tokyonight)
-
----
-
 ## 🚀 Proyectos destacados
 
 - 📦 Proyecto Integrador
