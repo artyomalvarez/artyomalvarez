@@ -86,11 +86,11 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,azure,cs,css,discord,docker,dotnet,html,js,kotlin,mongodb,mysql,postman,supabase,tailwind,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,github,vscode,mysql,mongodb,postman,python,java,kotlin,dotnet,cs,docker,supabase,azure&perline=6" />
   </a>
 </p>
 
-[![My Skills]([https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3](https://skillicons.dev/icons?i=git,azure,cs,css,discord,docker,dotnet,html,js,kotlin,mongodb,mysql,postman,supabase,tailwind,vscode))](https://skillicons.dev)
+
 
 
 
