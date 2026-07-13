@@ -84,6 +84,7 @@
   </ul>
 </div>
 <!--tech stack icons-->
+<h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,github,vscode,mysql,mongodb,postman,python,java,kotlin,dotnet,cs,docker,supabase,azure&perline=6" />
