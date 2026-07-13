@@ -86,7 +86,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,i=azure,cs,css,discord,docker,dotnet,html,js,kotlin,mongodb,mysql,postman,supabase,tailwind,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,azure,cs,css,discord,docker,dotnet,html,js,kotlin,mongodb,mysql,postman,supabase,tailwind,vscode" />
   </a>
 </p>
 
