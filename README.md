@@ -90,6 +90,10 @@
   </a>
 </p>
 
+[![My Skills]([https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3](https://skillicons.dev/icons?i=git,azure,cs,css,discord,docker,dotnet,html,js,kotlin,mongodb,mysql,postman,supabase,tailwind,vscode))](https://skillicons.dev)
+
+
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
