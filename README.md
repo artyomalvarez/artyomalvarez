@@ -1,94 +1,36 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Header animado --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Juan%20Jose%20Alvarez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=In%20my%20hands%20I%20make%20magic%20✨&descAlignY=55&descAlign=50" width="100%"/> </div> <!-- Presentación --> <div align="center"> <h3> 🍳 Chef · 💻 Backend Developer · 🇨🇴 Barranquilla </h3> <p><em>"Las bases son los sistemas y los sistemas sostienen las bases de todo lo que conocemos."</em></p> </div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- Sobre mí -->
+🙋‍♂️ Sobre mí
 
-<!--carta de presentacion-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hola, soy Juan Jose 👋</h1></summary>
-  </ul>
-</div>
+Soy Juan Jose Alvarez — chef de corazón y desarrollador backend en formación desde Barranquilla, Colombia.
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Desarrollador Web en formación · Chef de corazón 🍳💻</h2></summary>
-  </ul>
-</div>
+Aprendí que en la cocina y en el código la diferencia está en los fundamentos. Con las manos construyo platos. Con el código construyo sistemas.
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><p style="display: inline-block">
-      Estudiante en <strong>RIWI</strong> · Barranquilla, Colombia 🇨🇴<br/>
-      Apasionado por construir soluciones reales con código limpio.<br/>
-      <em>"La confusión es parte de programar."</em>
-    </p></summary>
-  </ul>
-</div>
+🎓 Estudiante en RIWI — Ruta avanzada C# + ASP.NET
+🚀 Construyendo InDivízia — sistema de gestión financiera grupal
+🧠 Aprendiendo: C#, ASP.NET, Angular, Docker, Clean Architecture
+🍳 Fun fact: soy el único dev de mi salón que también sabe cocinar
+📍 Barranquilla, Colombia
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- Tech Stack -->
+🛠️ Tech Stack
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Lo que manejo hoy:
 
-<!--tech stack icons-->
-<h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Tecnologías que manejo</h2>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,mysql,python,git,github,vscode,postman,linux&perline=5" /> </a> </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,github,vscode,mysql,python,postman&perline=5" />
-  </a>
-</p>
+En lo que estoy ahora mismo:
 
-<h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Próximamente aprendiendo</h2>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,docker,azure&perline=5" /> </a> </p> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- Proyectos -->
+🚧 Proyectos
+InDivízia — En construcción
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,azure&perline=4" />
-  </a>
-</p>
+Sistema de administración financiera grupal para estudiantes
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Resuelve el problema real de cómo dividir gastos en grupos — compras, salidas, deudas. Construido con C# + ASP.NET + Angular + PostgreSQL.
 
-<!--Sobre mi-->
-<h2>🙋‍♂️ Sobre mí</h2>
+🔗 Ver repositorio
 
-- 🔭 Actualmente trabajando en: **Proyecto Integrador RIWI**
-- 🌱 Aprendiendo: **JavaScript + MySQL**
-- 🚀 Próximamente: **C# + ASP.NET con Ruta Avanzada RIWI**
-- 🍳 Dato curioso: **Soy chef y programador — construyo cosas en la cocina y en el código**
-- 📍 Barranquilla, Colombia
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--Connect with me-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Conéctate conmigo 🤝</h2></summary>
-  </ul>
-</div>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/juan-jose-alvarez-203976405/" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-</a>
-</p>
-
-<!--profile visit count-->
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=artyomalvarez&icon=3&color=6)](https://visitcount.itsvg.in)
-
-</div>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--GitHub Stats-->
-<h2>📊 Mis estadísticas</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=artyomalvarez&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artyomalvarez&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- Estadísticas -->
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=artyomalvarez&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=artyomalvarez&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artyomalvarez&layout=compact&theme=tokyonight&hide_border=true" width="40%" /> </p> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- Conecta -->
+🤝 Conéctate conmigo
+<p align="center"> <a href="https://www.linkedin.com/in/juan-jose-alvarez-203976405/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/artyomalvarez" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <!-- Contador visitas --> <div align="center"> <img src="https://komarev.com/ghpvc/?username=artyomalvarez&color=blueviolet&style=for-the-badge" /> </div> <!-- Footer --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/> </div>
