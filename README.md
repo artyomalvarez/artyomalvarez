@@ -97,9 +97,9 @@ Busco oportunidades **junior** o de aprendizaje donde aportar con constancia y p
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Veterinary Clinic</h3>
-      <p align="center">App de consola C#/.NET para pacientes y mascotas.</p>
+      <p align="center">App de consola C#/.NET (POO, LINQ, async, tests) · en Esthercita-Factory</p>
       <p align="center">
-        <a href="https://github.com/artyomalvarez/veterinary-clinic-system">
+        <a href="https://github.com/Esthercita-Factory/artyomalvarez-VeterinaryClinicSystem">
           <img src="https://img.shields.io/badge/Ver%20repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
