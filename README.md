@@ -51,7 +51,7 @@ Busco oportunidades **junior** o de aprendizaje donde aportar con constancia y p
   </tr>
   <tr>
     <td width="160" valign="middle"><img src="https://img.shields.io/badge/DATOS-E8590C?style=flat-square" /></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=mysql,postgresql" /></td>
+    <td valign="middle"><img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" /></td>
   </tr>
   <tr>
     <td width="160" valign="middle"><img src="https://img.shields.io/badge/HOY-6E40C9?style=flat-square" /></td>
