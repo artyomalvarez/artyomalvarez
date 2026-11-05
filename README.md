@@ -86,26 +86,24 @@ Desarrollador **Backend** desde Barranquilla, Colombia 🇨🇴. Trabajo princip
 
 Construyendo fundamentos en **Application Security (AppSec)** con enfoque en el desarrollo backend seguro.
 
-</div>
-
 <br>
 
 <table width="100%">
   <tr>
-    <td width="160" valign="middle">
+    <td width="200" align="center" valign="middle">
       <img src="https://img.shields.io/badge/FUNDAMENTOS-6E40C9?style=flat-square"/>
     </td>
-    <td valign="middle">
+    <td align="center" valign="middle">
       <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td width="160" valign="middle">
+    <td width="200" align="center" valign="middle">
       <img src="https://img.shields.io/badge/SEGURIDAD_API-2F9E44?style=flat-square"/>
     </td>
-    <td valign="middle">
+    <td align="center" valign="middle">
       <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
       <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
       <br>
@@ -113,10 +111,10 @@ Construyendo fundamentos en **Application Security (AppSec)** con enfoque en el 
     </td>
   </tr>
   <tr>
-    <td width="160" valign="middle">
+    <td width="200" align="center" valign="middle">
       <img src="https://img.shields.io/badge/EN_APRENDIZAJE-1C7ED6?style=flat-square"/>
     </td>
-    <td valign="middle">
+    <td align="center" valign="middle">
       <sub>OWASP Top 10 · Control de acceso · Inyección · Gestión de secretos · Seguridad de redes</sub>
     </td>
   </tr>
@@ -126,28 +124,30 @@ Construyendo fundamentos en **Application Security (AppSec)** con enfoque en el 
 
 ### 🔐 Aplicación práctica
 
-<table width="100%">
+<table width="80%">
   <tr>
-    <td width="40" align="center">☑</td>
-    <td>Implementar autenticación y autorización en APIs.</td>
+    <td width="40" align="center" valign="middle">☑</td>
+    <td align="left" valign="middle">Implementar autenticación y autorización en APIs.</td>
   </tr>
   <tr>
-    <td align="center">☑</td>
-    <td>Validar entradas y utilizar consultas parametrizadas.</td>
+    <td align="center" valign="middle">☑</td>
+    <td align="left" valign="middle">Validar entradas y utilizar consultas parametrizadas.</td>
   </tr>
   <tr>
-    <td align="center">☑</td>
-    <td>Mantener secretos fuera del repositorio.</td>
+    <td align="center" valign="middle">☑</td>
+    <td align="left" valign="middle">Mantener secretos fuera del repositorio.</td>
   </tr>
   <tr>
-    <td align="center">☑</td>
-    <td>Analizar dependencias y código con Dependabot y CodeQL.</td>
+    <td align="center" valign="middle">☑</td>
+    <td align="left" valign="middle">Analizar dependencias y código con Dependabot y CodeQL.</td>
   </tr>
   <tr>
-    <td align="center">☑</td>
-    <td>Documentar modelos de amenazas básicos.</td>
+    <td align="center" valign="middle">☑</td>
+    <td align="left" valign="middle">Documentar modelos de amenazas básicos.</td>
   </tr>
 </table>
+
+</div>
 
 <br>
 
