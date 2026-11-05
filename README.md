@@ -44,10 +44,18 @@ Desarrollador **Backend** desde Barranquilla, Colombia 🇨🇴. Trabajo princip
   </tr>
   <tr>
     <td width="160" valign="middle">
+      <img src="https://img.shields.io/badge/FRONTEND-06B6D4?style=flat-square"/>
+    </td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=angular,tailwindcss,bootstrap"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="160" valign="middle">
       <img src="https://img.shields.io/badge/BACKEND-2F9E44?style=flat-square"/>
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express"/>
+      <img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs,express"/>
     </td>
   </tr>
   <tr>
@@ -227,3 +235,4 @@ Construyendo fundamentos en **Application Security (AppSec)** con enfoque en el 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+
