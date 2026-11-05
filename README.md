@@ -151,21 +151,79 @@ Construyendo fundamentos en **Application Security (AppSec)** con enfoque en el 
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=Gu%C3%ADa%20del%20Proyecto&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=Proyectos&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 <br>
 
-### 📋 Requisitos previos
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Firmeza API</h3>
+      <p align="center">Backend Web API para venta de materiales de construcción y alquiler de vehículos y maquinaria. Desarrollado con C#/.NET 10 y Clean Architecture; incluye gestión de inventario, ventas, reservas y autenticación.</p>
+      <p align="center">
+        <a href="https://github.com/Esthercita-Factory/artyomalvarez-Firmeza.API">
+          <img src="https://img.shields.io/badge/Ver%20repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Altea</h3>
+      <p align="center">Plataforma web que conecta estudiantes/coders con reclutadores mediante perfiles verificados por instructores. Proyecto integrador colaborativo con backend Node.js/Express y frontend JavaScript.</p>
+      <p align="center">
+        <a href="https://github.com/Altea-project/Proyecto-Integrador-RIWI">
+          <img src="https://img.shields.io/badge/Ver%20repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://proyecto-integrador-riwi.vercel.app/">
+          <img src="https://img.shields.io/badge/Demo-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Cooperativa El Progreso</h3>
+      <p align="center">Sistema de gestión financiera en .NET 10: aplicación de consola, Web API REST, scripts SQL, reportes LINQ y conversión multimoneda con TRM.</p>
+      <p align="center">
+        <a href="https://github.com/artyomalvarez/-Sistema-de-Gestion-Para-La-Cooperativa-Financiera-El-Progreso-">
+          <img src="https://img.shields.io/badge/Ver%20repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Veterinary Clinic System</h3>
+      <p align="center">Aplicación de consola en C#/.NET para gestión de pacientes, mascotas y consultas. Incluye POO, interfaces, LINQ, logging, programación asíncrona y pruebas unitarias con xUnit.</p>
+      <p align="center">
+        <a href="https://github.com/Esthercita-Factory/artyomalvarez-VeterinaryClinicSystem">
+          <img src="https://img.shields.io/badge/Ver%20repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-- [.NET SDK 10.0](https://dotnet.microsoft.com/download) (o la versión correspondiente instalada)
-- Motor de base de datos: [REEMPLAZAR: p. ej., PostgreSQL / MySQL / SQL Server]
-- [Git](https://git-scm.com/)
+<br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=Stats&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
-### ⚙️ Instalación y Configuración
+<br>
 
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/artyomalvarez/](https://github.com/artyomalvarez/)[REEMPLAZAR: NOMBRE-DEL-REPOSIOTORIO].git
-   cd [REEMPLAZAR: NOMBRE-DEL-REPOSITORIO]
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artyomalvarez&theme=tokyonight&hide_border=true&background=00000000" />
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=Contacto&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%"/>
+
+<br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jose-alvarez-manjarrez-203976405/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artyomalvarez)
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
