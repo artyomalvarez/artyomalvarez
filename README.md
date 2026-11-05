@@ -1,4 +1,4 @@
-
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Juan%20Jose%20Alvarez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20C%23%20%C2%B7%20ASP.NET%20%7C%20Seguridad%20de%20aplicaciones&descAlignY=55&descSize=16" width="100%"/>
 
@@ -41,7 +41,7 @@ Desarrollador **Backend** desde Barranquilla, Colombia 🇨🇴. Trabajo princip
     <td valign="middle">
       <img src="https://skillicons.dev/icons?i=cs,ts,js,python,html,css"/>
     </td>
-  </tr> 
+  </tr>
   <tr>
     <td width="160" valign="middle">
       <img src="https://img.shields.io/badge/FRONTEND-06B6D4?style=flat-square"/>
@@ -79,7 +79,7 @@ Desarrollador **Backend** desde Barranquilla, Colombia 🇨🇴. Trabajo princip
       <img src="https://img.shields.io/badge/EXPLORANDO-1C7ED6?style=flat-square"/>
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=azure,java,kotlin"/>
+      <img src="https://skillicons.dev/icons?i=azure,java,kotlin,dart"/>
     </td>
   </tr>
 </table>
@@ -235,4 +235,3 @@ Construyendo fundamentos en **Application Security (AppSec)** con enfoque en el 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-
