@@ -1,4 +1,4 @@
-<img width="389" height="305" alt="imagen" src="https://github.com/user-attachments/assets/bcb735d3-6288-4d6a-a094-d930b029de4a" /><div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Juan%20Jose%20Alvarez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20C%23%20%C2%B7%20ASP.NET%20%7C%20Seguridad%20de%20aplicaciones&descAlignY=55&descSize=16" width="100%"/>
 
